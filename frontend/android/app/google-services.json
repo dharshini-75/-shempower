@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987654321012",
+    "project_id": "shempower-app-push",
+    "storage_bucket": "shempower-app-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987654321012:android:567890abcdef1234",
+        "android_client_info": {
+          "package_name": "com.shempower.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSySHEmpowerFCMAccessKey2026SecureKey"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

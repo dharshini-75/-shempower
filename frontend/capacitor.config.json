@@ -1,0 +1,16 @@
+{
+  "appId": "com.shempower.app",
+  "appName": "SHEmpower",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": [
+      "*",
+      "http://192.168.233.86:5001"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

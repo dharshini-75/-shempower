@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+dist/
+build/
+backend/.env
+frontend/.env
+*.log
+
+# Local backend data and IDE files
+backend/.idea/
+backend/shempower.db.json
+backend/shempower.chat.json
+backend/shempower.private.chat.json
