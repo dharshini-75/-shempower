@@ -1,5 +1,5 @@
 // SHEmpower — Centralized API Base URL Configuration
-export const PRODUCTION_API_URL = import.meta.env.VITE_API_BASE_URL || '';
+export const PRODUCTION_API_URL = import.meta.env.VITE_API_BASE_URL || 'https://shempower-backend.onrender.com';
 
 export const getApiBaseUrl = () => {
   // 1. If an online production HTTPS URL is configured (e.g. Render / Railway / custom domain)
