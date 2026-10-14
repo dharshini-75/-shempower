@@ -77,8 +77,8 @@ The main objective of SHEmpower is to improve financial transparency, simplify s
 
 ## Developed By
 
-**Dharshini J. G.**  
-**Sharmila T. G.**
+**Dharshini JG**  
+**Sharmila TG**
 
 B.Sc. Computer Science  
 Thiagarajar College, Madurai
